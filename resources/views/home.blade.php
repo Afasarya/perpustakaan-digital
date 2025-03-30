@@ -23,7 +23,7 @@
                 </div>
             </div>
             <div class="lg:w-1/2">
-                <img src="{{ asset('images/hero-library.jpg') }}" alt="Library" class="rounded-lg shadow-xl object-cover h-96 w-full">
+                <img src="{{ asset('images/hero.jpg') }}" alt="Library" class="rounded-lg shadow-xl object-cover h-96 w-full">
             </div>
         </div>
     </div>
